@@ -128,3 +128,4 @@ searchInput.addEventListener('input', () => {
 
 // 9. Initial render on page load
 render();
+// Project 1 submission ready
